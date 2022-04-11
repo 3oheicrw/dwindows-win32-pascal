@@ -2,4 +2,4 @@
 
 Windows only Pascal binding for dwindows library
 
-This links directly with DLL.
+This needs importlib. See build.txt
