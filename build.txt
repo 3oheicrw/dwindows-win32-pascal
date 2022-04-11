@@ -1,0 +1,1 @@
+dlltool -k --output-lib libdw.a --def dw.def
